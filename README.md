@@ -6,3 +6,4 @@
 - José Carlos Ferreira de Souza
 - Marcos Jorgete
 - Gabriel de Medeiros Galvão
+- Marcelo Ricardo Araújo
